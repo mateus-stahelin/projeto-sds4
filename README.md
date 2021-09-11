@@ -1,4 +1,6 @@
-# MSVendas
+<p align="center">
+  # MSVendas
+</p>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
