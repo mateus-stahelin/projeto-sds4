@@ -34,4 +34,4 @@ Para o desenvolvimento desse projeto foram utilizadas as seguintes tecnologias:
 
 Acesse o projeto final [neste endereço](https://msvendas.netlify.app/).
 
-## :nerd_face:	Desenvolvido por [Mateus Sagas Stahelin](https://www.linkedin.com/in/mateus-sagas-stahelin-03177275/) na [Semana Sprint React da Dev Superior](https://devsuperior.com.br/sds4-inscricao-org).
+:nerd_face:	Desenvolvido por [Mateus Sagas Stahelin](https://www.linkedin.com/in/mateus-sagas-stahelin-03177275/) na [Semana Sprint React da Dev Superior](https://devsuperior.com.br/sds4-inscricao-org).
