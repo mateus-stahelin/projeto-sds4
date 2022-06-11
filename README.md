@@ -36,4 +36,4 @@ Na aplicação é possível visualizar informações de vendas como: data, vende
 
 ## 🤓 Autor
 
-* Desenvolvido por [Mateus Sagas Stahelin](https://www.linkedin.com/in/mateus-sagas-stahelin-03177275/) na [Semana Sprint React da Dev Superior](https://devsuperior.com.br/sds4-inscricao-org).
+* Desenvolvido por [Mateus Sagas Stahelin](https://www.linkedin.com/in/mateus-stahelin/) na [Semana Sprint React da Dev Superior](https://devsuperior.com.br/sds4-inscricao-org).
